@@ -3,7 +3,7 @@ import cv2
 import time
 
 
-PATH = "C:/Users/Soumik/Desktop/Task Round/Task 1/Task_1_Low.png"
+PATH = "./Low.png"
 START_POINT = [45,204,113]
 END_POINT = [231,76,60]
 OBSTACLES = [255,255,255]
